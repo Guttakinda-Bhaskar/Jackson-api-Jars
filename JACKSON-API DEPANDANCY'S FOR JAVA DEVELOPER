@@ -1,0 +1,16 @@
+                      Download Jars Download Link
+                      ***************************
+
+Download Jars Download Link: https://www.mediafire.com/file/tvex7v5f1tifuff/jersey-archive-1.19.zip/file
+
+Extract to a folder > open \jersey-archive-1.19\lib > it contains 11 JARS
+
+
+                    POM.Xml
+                    ********
+
+<dependency>
+			<groupId>com.fasterxml.jackson.core</groupId>
+			<artifactId>jackson-databind</artifactId>
+			<version>2.12.0</version>
+</dependency>
